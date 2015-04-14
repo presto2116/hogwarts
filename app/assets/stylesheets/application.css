@@ -58,4 +58,5 @@ h2 {
 img {
   border-radius: 40%;
   height: 300px;
+  max-width: 170px;
 }
